@@ -1,0 +1,21 @@
+img:hover {
+    border: 12px solid black;
+    transform: rotate(180deg);
+    transition-duration: 500ms;
+}
+body {
+    background-color: pink;
+}
+
+
+h1 {
+    color: red;
+    font-size: 50px;
+    font-family: Helvetica
+}
+
+p {
+    font-family: Arial;
+    color: gray;
+    font-size: 24px;
+}
